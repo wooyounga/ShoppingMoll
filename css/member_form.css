@@ -1,0 +1,14 @@
+.member_form{
+    width: 960px;
+    height: 100%;
+    background-color: white;
+}
+.member_table{
+    margin: 0 auto;
+}
+.form{
+    border-top: solid 1px black;
+}
+table tr td{
+    padding: 5px 5px;
+}

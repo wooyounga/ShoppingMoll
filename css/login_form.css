@@ -1,0 +1,21 @@
+.login_form{
+    width: 960px;
+    height: 350px;
+    background-image: url("../img/login.jpg");
+}
+.id_input{
+    position: absolute;
+    margin: 130px 100px 0 530px ;
+}
+.passwd_input{
+    position: absolute;
+    margin: 165px 100px 0 530px ;
+}
+.member_input{
+    position: absolute;
+    margin: 270px 100px 0px 650px;
+}
+#login{
+    position: absolute;
+    margin: 100px 100px 0px 750px;
+}
